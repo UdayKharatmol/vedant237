@@ -1,4 +1,4 @@
-
+[![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1)
 <h1 align="center">Hi 👋, I'm Vedant Chaudhari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant237&label=Profile%20views&color=0e75b6&style=flat" alt="vedant237" /> </p>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
