@@ -1,7 +1,6 @@
 <h1 align="center">Hello there👋, I'm Vedant Chaudhari !</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant237&label=Profile%20views&color=0e75b6&style=flat" alt="vedant237" /> </p>
-
-[![MasterHead](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)
+<p align="left"> <img src="Blue Geometric Technology LinkedIn Banner.png"/> </p>
 
 
 - 🌱 I’m currently learning **Python and C++ Programming Languages.**
