@@ -17,8 +17,8 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant237&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant237&show_icons=true&theme=yeblu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant237&layout=compactshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant237&layout=compactshow_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant237&show_icons=true&theme=cobalt" alt="vedant237" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant237&show_icons=true&theme=elegant" alt="vedant237" /></p>
